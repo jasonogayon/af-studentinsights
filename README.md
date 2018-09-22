@@ -58,6 +58,14 @@ Run tests by running the following command:
 npm test
 ~~~~
 
+My thought process for the quick testing task can be summarized into several stages:
+
+* Initial app exploration without stories
+* Stories walkthrough
+* Test tool setup
+* Test scripts
+* Documentation and review
+
 ---
 
 ## Test report
