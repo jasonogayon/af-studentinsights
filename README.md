@@ -74,6 +74,13 @@ Sample HTML test report (using `mochawesome`) inside the `mochawesome-report` di
 
 ![alt text](https://github.com/jasonogayon/af-studentinsights/raw/master/images/af-results-html-1.png "Mochawesome HTML Test Report")
 
+Other notable observations:
+
+* Application is flagged as not secure (SSL Certificate Error)
+* Application is not mobile-friendly, user interface is not mobile responsive or adaptive
+* Application has several accessibility contrast and link-text warnings
+* Google Lighthouse has several recommendations regarding performance, accessibility, best practices, and SEO
+
 Test report as displayed on a terminal:
 
 ![alt text](https://github.com/jasonogayon/af-studentinsights/raw/master/images/af-results-terminal-1.png "Cypress Terminal Test Report No. 1")
