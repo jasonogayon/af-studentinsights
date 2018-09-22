@@ -1,0 +1,10 @@
+{
+  "principal": {
+    "email": "demo@example.com",
+    "password": "demo-password"
+  },
+  "teacher": {
+    "email": "fake-fifth-grade@example.com",
+    "password": "demo-password"
+  }
+}

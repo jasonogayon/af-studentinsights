@@ -1,0 +1,14 @@
+{
+  "projectId": "af-studentinsights",
+  "pageLoadTimeout": 120000,
+  "fixturesFolder": "cypress/fixtures",
+  "integrationFolder": "cypress/integration",
+  "pluginsFile": "cypress/plugins/index.js",
+  "screenshotsFolder": "cypress/screenshots",
+  "supportFile": "cypress/support/index.js",
+  "videosFolder": "cypress/videos",
+  "videoCompression": false,
+  "chromeWebSecurity": false,
+  "reporter": "mochawesome",
+  "watchForFileChanges": false
+}

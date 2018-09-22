@@ -1,0 +1,12 @@
+# Mac OS X metadata files
+.DS_Store
+
+# Visual Studio Code settings
+.vscode/
+
+# Cypress
+.Trash-0
+cypress/screenshots
+cypress/results/
+node_modules
+package-lock.json

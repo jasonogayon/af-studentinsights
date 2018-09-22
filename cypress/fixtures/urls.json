@@ -1,0 +1,9 @@
+{
+  "login": "https://studentinsights-test.analyticsfire.com/",
+  "home": {
+    "schools": "https://studentinsights-test.analyticsfire.com/schools/",
+    "homerooms": "https://studentinsights-test.analyticsfire.com/homerooms/"
+  },
+  "studentWithRestrictedNote": "https://studentinsights-test.analyticsfire.com/students/64",
+  "studentWithReadingIntervention": "https://studentinsights-test.analyticsfire.com/students/32"
+}

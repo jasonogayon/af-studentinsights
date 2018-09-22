@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "cypress": "^3.0.1",
+    "moment": "^2.21.0",
+    "mocha": "^5.2.0",
+    "mochawesome": "^3.0.3"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/cypress run --reporter mochawesome",
+    "cy": "./node_modules/.bin/cypress open"
+  }
+}
